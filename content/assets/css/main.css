@@ -3875,7 +3875,8 @@
 		}
 
 		#footer .copyright {
-			color: #af0404;
+			/*#af0404;*/
+			color: #fff;
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0;
