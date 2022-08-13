@@ -1586,7 +1586,24 @@
 
 	body {
 		background-color: #af0404;
+		/* background-color: white; */
 		color: #999999;
+	}
+	
+	.colorGrad{
+		background-image: linear-gradient(to right, rgba(166,166,166,0), rgba(255,0,0,1));
+	}
+
+	.footerBlack {
+		background-color: #000;
+		/* background-color: white; */
+		color: #999999;
+	}
+
+	.p_color{
+		background-color: #af0404;
+		/* background-color: white; */
+		color: white;
 	}
 
 	body, input, select, textarea {
@@ -2895,8 +2912,10 @@
 			}
 
 		.wrapper.style1 {
-			background-color: #252525;
-			color: #999999;
+			/* background-color: #252525;
+			color: #999999; */
+			background-color: #a6a6a6;
+			color: #131313;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -3108,7 +3127,9 @@
 
 		.wrapper.style2 {
 			background-color: #af0404;
-			color: #aed6f1;
+			/* background-color: #ff0100; */
+			/* color: #aed6f1; */
+			color: #fff;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3154,7 +3175,7 @@
 			.wrapper.style2 button,
 			.wrapper.style2 .button {
 				background-color: #fff;
-				color: #af0404 !important;
+				color: #af0100 !important;
 			}
 
 				.wrapper.style2 input[type="submit"].alt,
@@ -3639,7 +3660,7 @@
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
+			/* vertical-align: middle; */
 			width: 7em;
 		}
 
@@ -3706,7 +3727,8 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/Logo_i9.png");
+		/* background-image: url("../../images/Logo_i9.png"); */
+		background-image: url("../../images/Logo_i9_Branca.png");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
