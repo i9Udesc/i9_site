@@ -28,3 +28,6 @@
     width: 980px;
     /* background-color: #000; */
 }
+.increve{
+    background-image: linear-gradient(to right, rgba(166,166,166,0), rgb(0, 110, 255));
+}
