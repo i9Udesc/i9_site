@@ -11,3 +11,5 @@
 - Encontre o tópico de 'interação da comunidade'. Clique no botão 'saiba mais' e veja como você irá interagir com a comunidade por meio da nossa solução.
 
 - Nossa plataforma Inicialmente será integrada no nosso site para atender as necessidades na universidade e ao longo de sua expansão e novas vendas o produto será destinado ao cliente sem vínculo com projeto. 
+
+- E no botão 'Inscreva-se' você pode fazer parte da nossa comunidade na 4.community
